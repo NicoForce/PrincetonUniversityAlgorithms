@@ -2,3 +2,4 @@ algs4.jar
 *.class
 *.zip
 venv/
+.vscode
