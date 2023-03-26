@@ -1,5 +1,6 @@
-algs4.jar
+*.jar
 *.class
 *.zip
 venv/
 .vscode
+__pycache__
